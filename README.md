@@ -30,7 +30,7 @@
 </p>
 
 Soy una **Desarrolladora Full Stack** enfocada en el **backend con PHP y Laravel**, apasionada por crear aplicaciones web **seguras, escalables y optimizadas**.  
-Me encanta diseñar APIs REST, automatizar procesos y mejorar el rendimiento de los sistemas.
+Me encanta diseñar APIs REST, automatizar procesos y mejorar el rendimiento de los sistemas para ofrecer soluciones eficientes y de alto impacto.
 
 ✨ Actualmente estoy perfeccionando **FastAPI**, **Docker** y **estrategias de SEO técnico**.  
 ☕ Fun fact: ¡Transformo café en código limpio y eficiente! 🚀
