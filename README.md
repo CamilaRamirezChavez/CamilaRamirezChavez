@@ -26,7 +26,7 @@
 ## 👩‍💻 Sobre Mí
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right">
+  <img src="https://tenor.com/es/view/hackat-gif-25853751" width="300" align="right">
 </p>
 
 Soy una **Desarrolladora Full Stack** enfocada en el **backend con PHP y Laravel**, apasionada por crear aplicaciones web **seguras, escalables y optimizadas**.  
