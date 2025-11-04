@@ -26,7 +26,7 @@
 ## 👩‍💻 Sobre Mí
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU3bzh3d243bDNvMnZlaHV5b28zZHNjbWhhYnozaGo2Y2xnd212dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" style="width:180px; height:auto; border-radius:10px;" align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU3bzh3d243bDNvMnZlaHV5b28zZHNjbWhhYnozaGo2Y2xnd212dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="50%" align="right">
 </p>
 
 Soy una **Desarrolladora Full Stack** enfocada en el **backend con PHP y Laravel**, apasionada por crear aplicaciones web **seguras, escalables y optimizadas**.  
