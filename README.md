@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 ¡Hola! Soy <strong>Angela Camila Ramirez Chavez</strong>
+  👋 ¡Hola! Soy <strong>Camila Ramirez Chavez</strong>
 </h1>
 
 <h3 align="center">
