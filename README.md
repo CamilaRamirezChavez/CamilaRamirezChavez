@@ -26,7 +26,7 @@
 ## 👩‍💻 Sobre Mí
 
 <p align="center">
-  <img src="<div class="tenor-gif-embed" data-postid="25853751" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hackat-gif-25853751">Hackat GIF</a>from <a href="https://tenor.com/search/hackat-gifs">Hackat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="300" align="right">
+  <img src="https://media.tenor.com/8w9gLRpx6J0AAAAi/hackat.gif"></script>" width="300" align="right">
 </p>
 
 Soy una **Desarrolladora Full Stack** enfocada en el **backend con PHP y Laravel**, apasionada por crear aplicaciones web **seguras, escalables y optimizadas**.  
