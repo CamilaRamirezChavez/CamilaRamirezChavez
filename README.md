@@ -76,63 +76,49 @@ Me encanta diseñar APIs REST, automatizar procesos y mejorar el rendimiento de 
 
 ## 🚀 Proyectos Destacados
 
-# 🌐 Mis Proyectos Web
+Bienvenido a mi colección de proyectos. Aquí fusiono diseño de alto impacto visual con arquitectura de software robusta, explorando desde experiencias inmersivas con GSAP hasta E-commerce reactivos.
 
-Una colección de mis proyectos web más recientes, cada uno enfocado en diferentes tecnologías y propósitos.
-
-### **Kroma - Portfolio Moderno**
-[![Kroma](https://img.shields.io/badge/🌐_Kroma-Visitar_sitio-7B3FE4)](https://web-kroma.pages.dev/)
+### **Kroma - Experiencia Digital High-Voltage**
+[![Kroma](https://img.shields.io/badge/🌐_Kroma-Visitar_sitio-7B3FE4?style=for-the-badge)](https://web-kroma.pages.dev/)
 [![Vista previa Kroma](https://api.microlink.io/?url=https://web-kroma.pages.dev&screenshot=true&embed=screenshot.url&width=600)](https://web-kroma.pages.dev/)
 
-**Descripción:** Portfolio moderno con diseño vanguardista y animaciones fluidas  
-**Tecnologías:** 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+**Descripción:** Una web inmersiva que desafía el diseño convencional. Inspirada en la estética moderna y el "kinetic typography", Kroma utiliza un esquema de colores de alto contraste (Dark & Neon Green) para crear una narrativa visual impactante.
 
-**Características:**
-- Diseño responsivo
-- Animaciones con GSAP
-- Efectos de partículas
-- Modo oscuro/claro
+**Highlights:**
+- **Animaciones Avanzadas:** Uso intensivo de GSAP y ScrollTrigger para efectos de aparición y movimiento.
+- **Tipografía Cinética:** Textos en movimiento que guían la experiencia de usuario (UX).
+- **Estética Vanguardista:** Diseño oscuro con acentos neón para máxima retención visual.
+- **Performance:** Optimización de carga de assets gráficos pesados.
 
 ---
 
-### **Lumière - Tienda Elegante**
-[![Lumière](https://img.shields.io/badge/🛍️_Lumière-Visitar_tienda-FF6B6B)](https://web-lumiere.pages.dev/)
-[![Vista previa Lumière](https://api.microlink.io/?url=https://web-lumiere.pages.dev&screenshot=true&embed=screenshot.url&width=600)](https://web-lumiere.pages.dev/)
-
-**Descripción:** Tienda online elegante con interfaz de usuario intuitiva  
-**Tecnologías:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Características:**
-- Carrito de compras
-- Filtrado de productos
-- Diseño mobile-first
-- Animaciones suaves
-
----
-
-### **Nexus - Landing Page Corporativa**
-[![Nexus](https://img.shields.io/badge/🏢_Nexus-Visitar_sitio-4ECDC4)](https://web-nexus.pages.dev/)
+### **Nexus - Soluciones Corporativas & Estrategia**
+[![Nexus](https://img.shields.io/badge/🏢_Nexus-Visitar_sitio-4ECDC4?style=for-the-badge)](https://web-nexus.pages.dev/)
 [![Vista previa Nexus](https://api.microlink.io/?url=https://web-nexus.pages.dev&screenshot=true&embed=screenshot.url&width=600)](https://web-nexus.pages.dev/#contacto)
 
-**Descripción:** Landing page corporativa con sección de contacto integrada  
-**Tecnologías:**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+**Descripción:** Landing page corporativa altamente optimizada para conversión. Nexus está estructurada para transmitir confianza y profesionalismo, ideal para agencias o servicios B2B que requieren una presencia sólida y comunicación clara.
 
-**Características:**
-- Formulario de contacto
-- Diseño corporativo profesional
-- SEO optimizado
-- Performance optimizada
+**Highlights:**
+- **Arquitectura de Información:** Secciones estratégicas (Hero, Servicios, Testimonios).
+- **Integración de Contacto:** Formularios funcionales y llamadas a la acción (CTA) claras.
+- **SEO Técnico:** Estructura semántica optimizada para motores de búsqueda.
+- **Carga Rápida:** Optimización de recursos para minimizar la tasa de rebote.
 
+---
+
+### **Lumière - Boutique de Joyería Exclusiva**
+[![Lumière](https://img.shields.io/badge/💎_Lumière-Visitar_Boutique-FF6B6B?style=for-the-badge)](https://web-lumiere.pages.dev/)
+[![Vista previa Lumière](https://api.microlink.io/?url=https://web-lumiere.pages.dev&screenshot=true&embed=screenshot.url&width=600)](https://web-lumiere.pages.dev/)
+
+**Descripción:** Plataforma E-commerce diseñada para el sector de lujo. Lumière prioriza la elegancia y la presentación del producto, ofreciendo una interfaz limpia y sofisticada que resalta la artesanía de cada pieza de joyería.
+
+**Highlights:**
+- **UI Minimalista:** Espaciado y tipografía curada para evocar exclusividad.
+- **Gestión de Estado:** Carrito de compras dinámico y fluido.
+- **Filtrado Inteligente:** Categorización por tipo de joya, material y colección.
+- **Diseño Responsive:** Experiencia de compra perfecta en móviles y tablets.
+
+---
 
 ### 🤖 Chatbot Inteligente con IA
 <p>
